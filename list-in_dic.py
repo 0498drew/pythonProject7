@@ -1,4 +1,4 @@
-# Store informatio about piza being ordered
+# Store informatio about breakfast ordered
 food = {'breakfast': 'full',
         'mixtures': ['eggs', 'cornflakes', 'coffee', 'milk']
         }
