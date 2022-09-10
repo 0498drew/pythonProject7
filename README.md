@@ -3,6 +3,7 @@
 * This is just my practice projects as a biginner learing about:
  - loops
  - tuples
+ - dictonaries
  - list
  - fuctions
  - classes
