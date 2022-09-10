@@ -22,7 +22,7 @@ for username, user_info in users.items():
     print("\nUsername: " + username)
 # access the inner dict
 # variable info contains keys  'first', 'last', 'loc'
-# use each key to generate flul fomatted name and location of each user
+# use each key to generate full fomatted name and location of each user
     full_name = user_info['first'] + " " + user_info['last']
     location = user_info['location']
 # summarize users infomation in order
