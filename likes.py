@@ -6,6 +6,7 @@ fav_foods = {
 }
 # summarize the favorite food of each person
 for name, foods in fav_foods.items():
-    print("\n" + name.title() + "'s favorite foods is:")
+    if  len(foods):
+        print("\n" + name.title() + "'s favorite foods is:")
     for food in foods:
         print("\t" + food)
