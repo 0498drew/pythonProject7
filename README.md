@@ -12,6 +12,8 @@
  - variables
 # Reference
 * No.Starch.Python by *ERIC MATTES*
+* Think python *O'nelly*
+* Corey Scafer youtube
 # Project Configuration
  - PyCharm community edition 2022.2.1
  - Pythorn 3.10
